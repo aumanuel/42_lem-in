@@ -22,7 +22,7 @@ rooms with invalid coordinates, and a variety of other invalid or poorly-formatt
 <br>
 * `Instructions: as many files as you want`
 * [42 Norm](https://cdn.intra.42.fr/pdf/pdf/960/norme.en.pdf) `maximum 5 functions per file, maximum 25 lines per function`
-* `Additional personal goal: only 6 funtions + all the bonuses`
+* `Additional personal goal: only 2 files + all the bonuses`
 
 
 ## Algorithm
