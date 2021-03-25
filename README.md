@@ -3,7 +3,7 @@
 Final grade 125/100 (full bonus)<br>
 * `Processing maps of 5000 rooms / 10000 pipes in less than 12 seconds to validate`
 * `In less than 3 seconds for max grade`
-* `Project process in 0.03 to 0.07 sec`
+* `Those maps are processed in 0.03 to 0.07 sec`
 
 Lem-in is an algorithm project, where ants have to go the fastest as posible from start-room to end-room.<br>
 
